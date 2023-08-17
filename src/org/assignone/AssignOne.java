@@ -7,7 +7,7 @@ private void EmployeeName() {
 	System.out.println ("Employee Name: Ajay");
 }
 private void EmployeeAge() {
-	System.out.println ("Employee Age: 25");
+	System.out.println ("Employee Age: 30");
 }
 public static void main (String [] args) {
 	AssignOne A =new AssignOne();
